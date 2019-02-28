@@ -24,6 +24,4 @@ npm start
 
 Leandro Carra – [@leandrotoco](https://twitter.com/leandrotoco) – leandrocarra@gmail.com
 
-Distributed under the XYZ license. See ``LICENSE`` for more information.
-
 [https://github.com/leandrocarra](https://github.com/leandrocarra/)
