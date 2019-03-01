@@ -1,8 +1,9 @@
 # Text Effect
-> Text effect using over layer
+> Text effect using overlayer
 
 This project aims to show the power of using css and javascript variables, to create many effects
 
+![](example.gif)
 
 ## Installation
 
